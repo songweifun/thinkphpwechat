@@ -1,0 +1,2 @@
+# thinkphpwechat
+基于thinkphp扩展的使用第三方微信sdk开发的微信后台管理系统
