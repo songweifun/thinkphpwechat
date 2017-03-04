@@ -1,0 +1,684 @@
+[ 2017-02-23T18:27:25+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-02-23T18:28:11+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002509s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000152s ]
+
+[ 2017-02-23T18:35:48+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.004618s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.004691s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000088s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000149s ]
+
+[ 2017-02-23T18:36:32+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=d31f096e02f439af41cd80ccb611208a9e4ce362&echostr=1641304737552777077&timestamp=1487846192&nonce=1972125941
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.004342s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.004445s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000073s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000132s ]
+
+[ 2017-02-23T18:36:42+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=d109a6010b5e31f4ddd4863679be8287778ee7af&echostr=1760742529079163898&timestamp=1487846202&nonce=454878488
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000186s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.004002s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.004071s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000070s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000129s ]
+
+[ 2017-02-23T18:38:06+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=69cd30d2e0cc173e3e043b0c2dcd1ce111ddaa63&echostr=2858258191618063262&timestamp=1487846286&nonce=1242461281
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002537s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002609s ]
+
+[ 2017-02-23T18:38:24+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=7b7364451e79c979a36e1fec8bddfc26564e5076&echostr=5084027260738912189&timestamp=1487846304&nonce=1747973796
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000082s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000146s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002527s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002597s ]
+
+[ 2017-02-23T18:39:23+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=b310c11dd916098fc8a4562b79bcacdfa8791b5b&echostr=1148731035907702751&timestamp=1487846362&nonce=641523084
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:1.003914s ]
+INFO: [ action_begin ] --END-- [ RunTime:1.003989s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000242s ]
+
+[ 2017-02-23T18:39:25+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=5a31349c0984b3471a0b5cfb22b696520ead8c55&echostr=64366258286492637&timestamp=1487846365&nonce=1243208368
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000144s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002527s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000188s ]
+
+[ 2017-02-23T18:39:26+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=78e0ae47e0d4b22f09137f12abd29303233be50e&echostr=7968915016332066782&timestamp=1487846366&nonce=2005237228
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002437s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000152s ]
+
+[ 2017-02-23T18:39:27+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=88ba449e39b140c70551743bfcc141ff74f738d0&echostr=2649651578046184415&timestamp=1487846367&nonce=385350987
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000077s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002462s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000166s ]
+
+[ 2017-02-23T18:40:45+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=330b6a01abfb12493bc4a1169fdac25ec8f9ec8d&echostr=1107909429034990846&timestamp=1487846444&nonce=269202563
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002576s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000131s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-02-23T18:47:17+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=c84f346c632dfd905503ffce77e9db6fca87dfb6&echostr=5795941403167014397&timestamp=1487846837&nonce=537612051
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.004028s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.004101s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000197s ]
+
+[ 2017-02-23T18:56:29+08:00 ] 101.226.103.59 /thinkphpwechat/index.php/Wechat/Api/handler?signature=0fc4ef79c217a4f43ff64229333f3f1904020e90&echostr=4108491934136254429&timestamp=1487847389&nonce=958573688
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.003876s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.003943s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000128s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000226s ]
+
+[ 2017-02-23T18:56:51+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=0047c4bcda81d0d09a552806c97f53a6fbdad4de&echostr=7374585928799404023&timestamp=1487847411&nonce=1725382231
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.008427s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.008509s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000182s ]
+
+[ 2017-02-23T18:57:02+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002905s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000133s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000280s ]
+
+[ 2017-02-23T18:58:23+08:00 ] 101.226.103.61 /thinkphpwechat/index.php/Wechat/Api/handler?signature=7929acedec2ac6079ef250a5995029aa07d0eeae&echostr=3784486168434829663&timestamp=1487847503&nonce=974286663
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000135s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.003845s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.003914s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000188s ]
+
+[ 2017-02-23T18:59:01+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=4e23dea6dc40292b1f2000f36a30def2222ba51f&echostr=3061289112073852157&timestamp=1487847541&nonce=445969691
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000133s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002722s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000126s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000226s ]
+
+[ 2017-02-23T18:59:08+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000178s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002503s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002567s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000081s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000153s ]
+
+[ 2017-02-23T19:00:37+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=f3b531e5a9a463eae4e7d370b99ee37bad3ee13c&echostr=6684947672474836439&timestamp=1487847637&nonce=184093513
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000072s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000137s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002628s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002699s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000228s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-02-23T19:01:02+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000139s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002921s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000129s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000249s ]
+
+[ 2017-02-23T19:03:02+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=4b0800bda22b42bb9609fd3aabea95f09bca5c30&echostr=8897917108263831918&timestamp=1487847782&nonce=572719199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000150s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.006371s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.006442s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000149s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000250s ]
+
+[ 2017-02-23T19:03:58+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000132s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:1.008716s ]
+INFO: [ action_begin ] --END-- [ RunTime:1.008785s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000198s ]
+
+[ 2017-02-23T19:04:19+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=6141c9abffa2ed7613672b869213bf1ea8a99021&echostr=6033615263461532087&timestamp=1487847859&nonce=2085242504
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002744s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002813s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000177s ]
+
+[ 2017-02-23T19:04:22+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=b2b84318a59b9c962189818599d1629a3510c469&echostr=4322096033215538166&timestamp=1487847862&nonce=1079725916
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000138s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002570s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002653s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000125s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000216s ]
+
+[ 2017-02-23T19:04:50+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=3248e6d1a452fa141cccd1882936dc715a18ccb2&echostr=832036936628557783&timestamp=1487847890&nonce=329974441
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000074s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000153s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.003880s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.003948s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-02-23T19:09:36+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000194s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.003011s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.003116s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000124s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000227s ]
+
+[ 2017-02-23T19:09:38+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.010127s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.010224s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000234s ]
+
+[ 2017-02-23T19:09:39+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000159s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.004898s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.004966s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000196s ]
+
+[ 2017-02-23T19:09:39+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000142s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002509s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002576s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000119s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000255s ]
+
+[ 2017-02-23T19:09:40+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000140s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.003049s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.003118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000090s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000187s ]
+
+[ 2017-02-23T19:09:40+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000132s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000065s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002562s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002628s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000114s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000223s ]
+
+[ 2017-02-23T19:09:41+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000126s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002498s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002571s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2017-02-23T19:09:41+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000210s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002851s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002918s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000110s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000198s ]
+
+[ 2017-02-23T19:09:45+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=d5983e676caf88e25c7cce8f767f1b8381dd87af&echostr=4190750702650191869&timestamp=1487848184&nonce=1865184280
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000136s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002486s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002563s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000136s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000237s ]
+
+[ 2017-02-23T19:19:28+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=8b7c07cf1ca1044f57d33806ea81d38ffbb2df2f&echostr=9219448182024368089&timestamp=1487848768&nonce=1617736740
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000134s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.003825s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.003892s ]
+
+[ 2017-02-23T19:26:09+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=39c60a373a571323ade2b1bfd88f9a521faca0df&echostr=6969042485266867963&timestamp=1487849169&nonce=879233070
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000080s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000145s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.004181s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.004247s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000089s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000168s ]
+
+[ 2017-02-23T19:32:05+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=f6006317cf6fc6bba9f45ec46fa26a665eef7bdd&echostr=1278655600569273151&timestamp=1487849525&nonce=64749976
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000070s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000143s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.004395s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.004461s ]
+
+[ 2017-02-23T19:33:03+08:00 ] 101.226.103.63 /thinkphpwechat/index.php/Wechat/Api/handler?signature=c5b7fc5c1b9571fbeec00c87a58a62c1ba743634&echostr=7995531319025072879&timestamp=1487849583&nonce=309046386
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000084s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000148s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002515s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002584s ]
+
+[ 2017-02-23T19:34:42+08:00 ] 58.247.206.147 /thinkphpwechat/index.php/Wechat/Api/handler?signature=c83bf1f8460dd3320e9ef6298d38f8a4a58d8326&timestamp=1487849682&nonce=1760887581&openid=oLHasv5voN3Qpvb8YoQlMtMY73Mc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000063s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000127s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002457s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002527s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000143s ]
+
+[ 2017-02-23T19:34:52+08:00 ] 61.151.226.199 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000130s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002499s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002566s ]
+NOTIC: [8] Trying to get property of non-object /var/www/html/thinkphpwechat/vendor/houdunwang/wechat/src/build/Message.php 第 142 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000127s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000188s ]
+
+[ 2017-02-23T19:35:14+08:00 ] 58.247.206.155 /thinkphpwechat/index.php/Wechat/Api/handler?signature=46ca5962f20e6a0787d012ffff42cff9ede288dd&timestamp=1487849714&nonce=1610047389&openid=oLHasv5voN3Qpvb8YoQlMtMY73Mc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000170s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.002763s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.002833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000072s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000146s ]
+
+[ 2017-02-23T21:37:27+08:00 ] 36.149.92.198 /thinkphpwechat/index.php/Wechat/Api/handler
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000150s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:0.004168s ]
+INFO: [ action_begin ] --END-- [ RunTime:0.004245s ]
+NOTIC: [8] Trying to get property of non-object /var/www/html/thinkphpwechat/vendor/houdunwang/wechat/src/build/Message.php 第 142 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000084s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000155s ]
+
+[ 2017-02-23T22:33:43+08:00 ] 58.247.206.147 /thinkphpwechat/index.php/Wechat/Api/handler?signature=a21e1d364cd7f268ff059d49921edf4dc31a445e&timestamp=1487860422&nonce=2089650452&openid=oLHasv5voN3Qpvb8YoQlMtMY73Mc
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000066s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000131s ]
+INFO: [ action_begin ] --START--
+SQL: SHOW COLUMNS FROM `6d_config` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `6d_config` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0002s ]
+INFO: Run Common\Behaviors\AppBeginBehavior [ RunTime:1.005269s ]
+INFO: [ action_begin ] --END-- [ RunTime:1.005340s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000149s ]
+

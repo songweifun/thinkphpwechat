@@ -1,0 +1,58 @@
+<layout name="../../Application/Common/View/master" />
+<ul class="breadcrumb no-border no-radius b-b b-light pull-in">
+                <li><a href="index.html"><i class="fa fa-home"></i> Home</a></li>
+                <li><a href="#">菜单管理</a></li>
+                <li><a href="#">菜单列表</a></li>
+            </ul>
+            <div class="m-b-md">
+                <h3 class="m-b-none">菜单列表</h3>
+            </div>
+            <div class="row">
+                <div class="col-sm-12">
+                    <section class="panel panel-default">
+                        <header class="panel-heading font-bold">菜单列表</header>
+                        <div class="panel-body">
+
+                            <table class="table table-hover">
+                                <thead>
+                                <tr>
+                                    <th>编号</th>
+                                    <th>菜单名称</th>
+                                    <th>操作</th>
+                                </tr>
+                                </thead>
+                                <tbody>
+                                <volist name="buttons" id="item">
+                                    <tr>
+
+                                            <td>{$item.id}</td>
+                                            <td>{$item.title}</td>
+
+                                            <td>
+                                                <if condition="$item['status'] eq 1">
+
+                                                    <a href="{:site_url('button.push',['id'=>$item['id']])}" class="btn btn-danger btn-sm" disabled="disabled">已推送</a>
+                                                    <else/>
+                                                    <a href="{:site_url('button.push',['id'=>$item['id']])}" class="btn btn-primary btn-sm">待推送</a>
+
+                                                </if>
+                                                &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+                                                    <a href="{:site_url('button.set',['id'=>$item['id']])}" class="btn btn-default btn-sm">编辑</a>
+
+                                            </td>
+
+                                    </tr>
+                                </volist>
+                                </tbody>
+                            </table>
+                            <div>
+                                <a href="{:site_url('button.set')}" class="btn-sm btn-primary" >添加菜单</a>
+                            </div>
+
+                        </div>
+
+                    </section>
+                </div>
+            </div>
+
+

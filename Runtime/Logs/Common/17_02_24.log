@@ -1,0 +1,18 @@
+[ 2017-02-24T13:41:27+08:00 ] 183.206.175.149 /thinkphpwechat/index.php/mo=MinWeb/ac=show/t=Web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000152s ]
+ERR: 无法加载模块:Mo=MinWeb
+
+[ 2017-02-24T13:42:01+08:00 ] 183.206.175.149 /thinkphpwechat/index.php/mo=minweb/ac=show/t=Web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000144s ]
+ERR: 无法加载模块:Mo=minweb
+
+[ 2017-02-24T13:43:29+08:00 ] 183.206.175.149 /thinkphpwechat/index.php/mo=minweb/ac=show/t=Web
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+ERR: 无法加载模块:Mo=minweb
+
